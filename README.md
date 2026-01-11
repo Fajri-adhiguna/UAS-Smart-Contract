@@ -5,6 +5,10 @@ Repository ini berisi implementasi smart contract Solidity
 untuk memahami dan mempraktikkan opcode pada Ethereum Virtual Machine (EVM).
 
 ## Daftar Opcode
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
 1. DIV
 2. ISZERO
 3. ORIGIN
